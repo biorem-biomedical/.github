@@ -1,12 +1,7 @@
-## Hi there 👋
+## Biorem Biomedical Engineering
 
-<!--
+📚 BIOREM_biomedical technology is an engineering firm expert in the life cycle of medical and scientific technology, including its assessment, planning, procurement, engineering, reception, innovation and management.
 
-**Here are some ideas to get you started:**
+📊 We take the most out of medical technology to create efficient, advanced and smart working environments for health institutions -hospital centers, residences, specialty institutes, laboratories and biomedical research centers- while pursuing patient safety and equity.
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+📁 In 21 years, we have developed more than 160 projects, including 140 new hospitals and medical care centers, with a total of more than 1,800 million euros in managed medical equipment.
